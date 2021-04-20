@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Fasha_Org</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>MyTeamOrdersController</members>
+    <members>UpdateAccounts</members>
+    <members>UpdateAllAccounts</members>
+    <members>testUpdateAccountCA</members>
+  </types>
+  <types>
+    <name>ContentAsset</name>
+    <members>Capture_dcran_20210407_164535</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Fasha</members>
+    <members>Fasha_Org_UtilityBar</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Account.Chiffre_d_affaire__c</members>
+    <members>Order.Frais_de_livraison__c</members>
+    <members>Order.Montant_Net__c</members>
+  </types>
+  <types>
+    <name>CompactLayout</name>
+    <members>Order.new_order</members>
+  </types>
+  <types>
+    <name>ApexPage</name>
+    <members>MyTeamOrders</members>
+    <members>MyTeamOrdersController</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Fasha</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>CalculMontant</members>
+    <members>UpdateAccountCA</members>
+  </types>
+  <version>45.0</version>
+</Package>

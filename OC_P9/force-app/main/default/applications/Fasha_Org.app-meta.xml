@@ -13,6 +13,7 @@
     <label>Fasha Org</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
+    <tabs>Fasha</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-Order</tabs>
