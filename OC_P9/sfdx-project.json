@@ -2,16 +2,16 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
-            "package": "FASHA_APP",
-            "versionName": "ver 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "package": "FashaSFDX",
+            "versionName": "ver 1.1",
+            "versionNumber": "1.1.0.NEXT",
+            "default": true
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "45.0",
+    "sourceApiVersion": "51.0",
     "packageAliases": {
-        "FASHA_APP": "0Ho09000000GmrICAS"
+        "FashaSFDX": "0Ho09000000GmrNCAS"
     }
 }
